@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SBT_VERSION=0.13.2
+SBT_VERSION=0.13.6
 
 SBT_BASE=~/.sbt
 SBT_HOME=${SBT_BASE}/${SBT_VERSION}
